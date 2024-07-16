@@ -1,4 +1,4 @@
-# Projeto-Alfabetiza-o-Mundial-por-Pais
+# Projeto Alfabetização Mundial por Pais
 O conjunto de dados "World Literacy Rate by Country" fornece um instantâneo detalhado das taxas de alfabetização em diferentes países do mundo. 
 
 Este conjunto de dados é organizado em várias colunas-chave:
